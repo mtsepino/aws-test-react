@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> For CICD Testing.
+          Edit <code>src/App.js</code> For CICD Testing. DIdno not
         </p>
         <a
           className="App-link"
